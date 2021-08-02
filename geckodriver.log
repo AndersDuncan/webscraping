@@ -1,0 +1,149 @@
+1627909624194	Marionette	INFO	Stopped listening on port 46767
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627910270222	geckodriver	INFO	Listening on 127.0.0.1:48691
+1627910270226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNspJGx"
+1627910270507	Marionette	INFO	Marionette enabled
+
+(firefox:163689): Gtk-WARNING **: 15:17:50.536: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:163689): Gtk-WARNING **: 15:17:50.536: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:163689): Gtk-WARNING **: 15:17:50.536: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:163689): Gtk-WARNING **: 15:17:50.536: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:163689): Gtk-WARNING **: 15:17:50.536: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:163689): Gtk-WARNING **: 15:17:50.536: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:163689): Gtk-WARNING **: 15:17:50.536: Theme directory actions/symbolic of theme Dracula has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNspJGx/search.json.mozlz4", (void 0)))
+1627910271757	Marionette	INFO	Listening on port 34393
+1627910271860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript warning: https://app.roll20.net/v2/js/browse.js?1623778356, line 660: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627910300172	Marionette	INFO	Stopped listening on port 34393
+1627931285133	geckodriver	INFO	Listening on 127.0.0.1:58417
+1627931285136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUhk5P8"
+1627931285466	Marionette	INFO	Marionette enabled
+
+(firefox:243796): Gtk-WARNING **: 21:08:05.501: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:243796): Gtk-WARNING **: 21:08:05.501: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:243796): Gtk-WARNING **: 21:08:05.501: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:243796): Gtk-WARNING **: 21:08:05.501: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:243796): Gtk-WARNING **: 21:08:05.501: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:243796): Gtk-WARNING **: 21:08:05.501: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:243796): Gtk-WARNING **: 21:08:05.501: Theme directory actions/symbolic of theme Dracula has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUhk5P8/search.json.mozlz4", (void 0)))
+1627931286670	Marionette	INFO	Listening on port 35629
+1627931286778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript warning: https://app.roll20.net/v2/js/browse.js?1623778356, line 660: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627931309216	Marionette	INFO	Stopped listening on port 35629
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627931451734	geckodriver	INFO	Listening on 127.0.0.1:48575
+1627931451738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile915owA"
+1627931452070	Marionette	INFO	Marionette enabled
+
+(firefox:244318): Gtk-WARNING **: 21:10:52.106: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:244318): Gtk-WARNING **: 21:10:52.106: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:244318): Gtk-WARNING **: 21:10:52.106: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:244318): Gtk-WARNING **: 21:10:52.106: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:244318): Gtk-WARNING **: 21:10:52.106: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:244318): Gtk-WARNING **: 21:10:52.106: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:244318): Gtk-WARNING **: 21:10:52.106: Theme directory actions/symbolic of theme Dracula has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile915owA/search.json.mozlz4", (void 0)))
+1627931453360	Marionette	INFO	Listening on port 45933
+1627931453463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript warning: https://app.roll20.net/v2/js/browse.js?1623778356, line 660: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627931468243	Marionette	INFO	Stopped listening on port 45933
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627931484694	geckodriver	INFO	Listening on 127.0.0.1:40755
+1627931484698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletduYm3"
+1627931485012	Marionette	INFO	Marionette enabled
+
+(firefox:244688): Gtk-WARNING **: 21:11:25.050: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:244688): Gtk-WARNING **: 21:11:25.050: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:244688): Gtk-WARNING **: 21:11:25.050: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:244688): Gtk-WARNING **: 21:11:25.050: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:244688): Gtk-WARNING **: 21:11:25.050: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:244688): Gtk-WARNING **: 21:11:25.050: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:244688): Gtk-WARNING **: 21:11:25.050: Theme directory actions/symbolic of theme Dracula has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletduYm3/search.json.mozlz4", (void 0)))
+1627931486299	Marionette	INFO	Listening on port 41395
+1627931486334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 298: TypeError: $(...).uls is not a function
+JavaScript warning: https://app.roll20.net/v2/js/browse.js?1623778356, line 660: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://public.profitwell.com/js/profitwell.js?auth=19d32cf6625e20e9f81c11ef048fc09f, line 16: FetchNotificationError:  (status: 0, url: ) - Detail not available.
+1627931512861	Marionette	INFO	Stopped listening on port 41395
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

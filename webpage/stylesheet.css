@@ -1,0 +1,16 @@
+
+table {
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: solid 1px #ddd;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+}
+th {
+    font-weight:bold;
+}
