@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import ftplib
 
 ftp = ftplib.FTP("pixie-ftp.porkbun.com")
