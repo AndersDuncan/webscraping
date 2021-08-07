@@ -75,7 +75,7 @@ WebDriverWait(driver=driver, timeout=10).until(
     lambda x: x.execute_script("return document.readyState === 'complete'")
 )
 
-driver.get("https://app.roll20.net/campaigns/chatarchive/1777961/?p=2&onePage=&hidewhispers=true&hiderollresults=true")
+driver.get(data[4])
 
 sleep(2)
 nameArray = []

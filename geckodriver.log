@@ -187,3 +187,38 @@ IPDL protocol error: Handler returned error code!
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1628333114606	geckodriver	INFO	Listening on 127.0.0.1:47339
+1628333115610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4dEeTV"
+1628333115971	Marionette	INFO	Marionette enabled
+
+(firefox:4264): Gtk-WARNING **: 12:45:16.006: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:4264): Gtk-WARNING **: 12:45:16.006: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:4264): Gtk-WARNING **: 12:45:16.006: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:4264): Gtk-WARNING **: 12:45:16.006: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:4264): Gtk-WARNING **: 12:45:16.006: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:4264): Gtk-WARNING **: 12:45:16.006: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:4264): Gtk-WARNING **: 12:45:16.006: Theme directory actions/symbolic of theme Dracula has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4dEeTV/search.json.mozlz4", (void 0)))
+1628333117185	Marionette	INFO	Listening on port 44255
+1628333117234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.roll20.net/v2/js/browse.js?1628285179, line 660: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1628333127050	Marionette	INFO	Stopped listening on port 44255
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
